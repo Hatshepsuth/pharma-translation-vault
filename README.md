@@ -1,37 +1,36 @@
 # pharma-translation-vault
 Knowledge base template for pharmaceutical translators
 
-This repository is a knowledge base, toolkit, and template collection for freelance translators and linguists working in the pharmaceutical and life sciences sector.  
-**Languages:** source, target (adapt for your workflow).
+A curated knowledge base and toolkit for freelance translators and linguists specialising in pharmaceutical and life sciences translation.
 
-## Structure
+## About
 
-- **00-Reference/**  
-  Glossaries, regulatory references, terminology databases, sample documents, style guides.
+This repository offers a structured framework for managing terminology, templates, project files, professional development, and automation tools, tailored to the unique requirements of pharmaceutical translation.
 
-- **01-Templates/**  
-  Ready-to-use templates: emails, translation memory, quality checklists, client briefing forms.
+- Designed for freelancers, in-house linguists, and translation teams
+- Includes templates for client communication, project setup, and quality assurance
+- Stores reference materials, glossaries, and regulatory resources
+- Supports continuous learning and workflow optimisation
 
-- **02-Projects/**  
-  Example project folders (per client or per month), project briefs, reference materials, archive.
+## Project Management
 
-- **03-Professional-Development/**  
-  Courses, webinars, CPD certificates, publications, conference notes.
-
-- **04-Knowledge-Base/**  
-  FAQs, typical errors, CAT tools tips, workflow notes.
-
-- **06-Admin/**  
-  Reference letters, cover letters, CVs and resumes.
-
-- **07-Tools-and-Automation/**  
-  Macros, scripts, QA tools, Obsidian workflows.
+Development, planned features, and workflow improvements are tracked via the [Pharma Translation KM Roadmap](../../projects) in the Projects tab.  
+Refer to the board for ideas, upcoming additions, and the current status of this knowledge base.
 
 ## How to Use
 
-- Use folders as a template for structuring your own translation knowledge base.
-- Populate templates with your own content, checklists, and materials.
-- Share or fork for your team or colleagues!
+- Use the folder structure as a template for organising your own pharmaceutical translation workspace.
+- Adapt and populate with your own content, resources, and workflows.
+- Contribute by sharing feedback, improvement suggestions, or pull requests.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an issue or submit a pull request for discussion.
+
+## Licence
+
+This repository is licensed under the MIT License.
 
 ---
 
