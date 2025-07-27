@@ -1,0 +1,30 @@
+pharma-translation-vault/
+├── 00-Reference/
+│   ├── Glossaries/
+│   ├── Regulatory-References/
+│   ├── TermBases-Links/
+│   ├── Document-Samples/
+│   └── Style-Guides/
+├── 01-Templates/
+│   ├── Email-Templates/
+│   ├── Translation-Memory-Setup/
+│   ├── Quality-Checklist/
+│   └── Client-Briefing/
+├── 02-Projects/
+│   ├── [Project-Name-MM-YYYY]/
+│   │   ├── Project-Brief-for-Portfolio/
+│   │   ├── Reference-Materials/
+│   └── Archive/
+├── 03-Professional-Development/
+│   ├── Courses-and-Webinars/
+│   ├── ATA-CPD/
+│   ├── Publications/
+│   └── Conference-Notes/
+├── 04-Admin/
+│   ├── Reference-Letters/
+│   ├── Cover-Letters/
+│   └── CV
+└── 05-Tools-and-Automation/
+    ├── Macros-and-Scripts/
+    ├── QA-Tools/
+    └── Obsidian-Workflows/
