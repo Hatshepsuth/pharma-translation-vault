@@ -35,4 +35,4 @@ This repository is a knowledge base, toolkit, and template collection for freela
 
 ---
 
-*Created and maintained by [Ekaterina Markova].*
+*Created and maintained by Ekaterina Markova.*
